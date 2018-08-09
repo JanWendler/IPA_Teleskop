@@ -1,0 +1,3 @@
+<b>  Messstation </b> <p> 
+
+Die Messstation hat einen Luftfeuchtigkeits Sensor und einen Temperatur Sensor. Die Daten der Sensoren werden mithife von UART und einem RF Modul and die Hauptstation geschickt.
